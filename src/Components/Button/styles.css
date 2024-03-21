@@ -1,0 +1,12 @@
+.custom-btn{
+    width: auto;
+    height: 3rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: #1da1f2;
+    color: white;
+    font-weight: 700;
+}
+.custom-btn:hover{
+    cursor: pointer;
+}
